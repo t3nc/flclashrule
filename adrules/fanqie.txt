@@ -1,0 +1,38 @@
+! ====== HOST 类型（精确域名匹配） ======
+||p6-ad-sign.byteimg.com^
+||p9-ad-sign.byteimg.com^
+||i.snssdk.com^
+||i-lq.snssdk.com^
+||dig.bdurl.net^
+||activity-ag.awemeughun.com^
+||mcs.snssdk.com^
+||tnc3-alisc1.snssdk.com^
+||security-lq.snssdk.com^
+||tnc3-aliec2.snssdk.com^
+||is.snssdk.com^
+||msync-im1-vip6-std.easemob.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||api.iegadp.qq.com^
+||sf3-ttcdn-tos.pstatp.com^
+||v6-novelapp.ixigua.com^
+||toutiao-frontier.snssdk.com^
+||adim.pinduoduo.com^
+||whoami.akamai.net^
+
+! ====== HOST-SUFFIX 类型（域名后缀匹配） ======
+||*pglstatp-toutiao.com^
+||*default.ixigua.com^
+||*novelapp.ixigua.com^
+||*byteorge.com^
+||*bytegoofy.com^
+||*bytedance.com^
+||*zijieapi.com^
+||*pangolin-sdk-toutiao.com^
+
+! ====== IP-CIDR 类型（IP 地址段匹配） ======
+49.71.37.101/32
+117.71.105.23/32
+218.94.207.205/32
+117.92.229.188/32
+101.36.166.16/32
+180.96.2.114/32
