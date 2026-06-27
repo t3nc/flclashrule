@@ -25,3 +25,5 @@ payload:
     - dns.adguard.com
     - d.adguard-dns.com
     - +.d.adguard-dns.com
+    - ypojie.com
+    - +.ypojie.com
