@@ -29,3 +29,28 @@ payload:
     - +.ypojie.com
     - mini4k.io
     - +.mini4k.io
+    # Microsoft AI
+    - copilot.microsoft.com
+    - +.copilot.microsoft.com
+    - chatgpt.com
+    - +.chatgpt.com
+    - +.openai.com
+    - oaiusercontent.com
+    - +.oaiusercontent.com
+    - +.bing.com
+    - +.bing.net
+    - +.microsoft.com
+    - +.microsoftonline.com
+    - +.msn.com
+    - +.office.com
+    - +.office.net
+    - +.onedrive.com
+    - +.outlook.com
+    - +.windows.com
+    - +.windows.net
+    - +.live.com
+    - +.hotmail.com
+    - +.azure.com
+    - +.azure.net
+    - +.azureedge.net
+    - +.azmk8s.io
